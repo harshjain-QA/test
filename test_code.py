@@ -267,3 +267,4 @@ def test_total_after_removal(cart_data, page):
 
     assert round(total_calculated, 2) == round(total_displayed, 2)
     print("✅ Total after removal correct")
+    print("ok")
