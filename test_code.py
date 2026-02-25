@@ -94,7 +94,6 @@
 #
 #         # Close browser
 #         browser.close()
-import pytest
 from playwright.sync_api import sync_playwright, Page, expect
 from pytest import fixture
 
